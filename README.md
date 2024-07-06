@@ -6,4 +6,4 @@ Matmanip is a basic Pascal program that allows you to manipulate matrices.
 With Matmanip you can add, subtract and multiply matrices. You can also transpose and inverse them. 
 
 ## Screenshot
-<img src="Graphics/Screenshot.png" width="500"/>
+<img src="Graphics/Screenshot.png" width="800"/>
