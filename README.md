@@ -7,3 +7,4 @@ With Matmanip you can add, subtract and multiply matrices. You can also transpos
 
 ## Screenshot
 ![Screenshot of the Matmanip Application](Graphics/Screenshot.png)
+<img src="Graphics/Screenshot.png" width="128"/>
