@@ -1,3 +1,4 @@
+<img src="Graphics/Icon-44.png" width="44"/>
 
 # Matmanip
 Matmanip is a basic Pascal program that allows you to manipulate matrices.  
